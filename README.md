@@ -11,8 +11,6 @@ Olá! Meu nome é Carlos, tenho 31 anos, estudante de Análise e Desenvolvimento
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carloshenrique31&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 ###Languages and Tools
 
 <div align="left">
